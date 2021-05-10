@@ -11,13 +11,7 @@ The goal of parshadow is to calculate parametric frontiers and shadow prices
 Installation
 ------------
 
-You can install the released version of parshadow from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("parshadow")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+You can install the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
