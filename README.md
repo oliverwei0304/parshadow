@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 parshadow
@@ -19,6 +18,3 @@ devtools::install_github("oliverwei0304/parshadow")
 library(parshadow)
 
 ```
-
-
->>>>>>> 4273beda21a2db74b32b8e2dfeae77967e02a945
